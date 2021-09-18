@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "807838047080",
+    "firebase_url": "https://appersi-firebase.firebaseio.com",
+    "project_id": "appersi-firebase",
+    "storage_bucket": "appersi-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807838047080:android:808396bf8b8dfbe86fd4dd",
+        "android_client_info": {
+          "package_name": "br.com.example.appersi_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807838047080-sgj6u7b409vo1l6ifbj0gp6bp3vekgsv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.example.appersi_firebase",
+            "certificate_hash": "fbd99df0d1f3be0b15a076d92f66b1fdcf7b3b2b"
+          }
+        },
+        {
+          "client_id": "807838047080-sr2tgj56nvt2jlmdutsn6sbd691i9co8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgjyt_e3xZCVHNXoN6wLXzyUbjp1v6E4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807838047080-sr2tgj56nvt2jlmdutsn6sbd691i9co8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
